@@ -8,3 +8,4 @@ D=A+B+C+E
 print(C,type(C))
 print(D,type(D))
 print(K, type(K))
+AB=2230
